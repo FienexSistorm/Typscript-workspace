@@ -1,0 +1,7 @@
+
+# ----------------------------- ** Basic Notes ** ---------------------------- #
+- Install typescript (globally):                ~$ npm i -g typescript
+- Install typescript (localy to the project):    ~$ npm i typescript --save-dev
+- Running you Ts file:  
+        1- Compile it (generates a js file):        ~$ tsc index.ts
+        2- Run the generated js file:               ~$ node index.js
