@@ -1,4 +1,6 @@
 # Typscript-workspace
-A demo project containing some examples of typescript's features.
+A demo project for Typescript best basic and advanced features
 
-![My Image](typescript.svg)
+<p align="center">
+  <img src="https://github.com/FienexSistorm/Typscript-workspace/blob/master/typescript.svg" width="200" height="200" align="center" />
+</p>
